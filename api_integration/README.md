@@ -1,4 +1,3 @@
-```markdown
 # Fitness Data Simulation and Storage
 
 ## Overview
