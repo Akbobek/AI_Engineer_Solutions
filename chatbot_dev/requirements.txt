@@ -1,0 +1,4 @@
+transformers==4.27.4
+pandas==1.5.3
+pdfplumber==0.11.5
+sqlite3==0.0.1
